@@ -14,13 +14,12 @@ I'm a Master’s student in Computer and Information Sciences at New York Univer
 - [**UrbanHealthOpt Project**](https://github.com/saumyaphadkar24/UrbanHealthOpt): Implemented data-driven methodologies for optimizing urban healthcare planning.
 - [**Customer Segmentation Project for Khawakee Foods Pvt. Ltd.**](https://github.com/saumyaphadkar24/CustomerSegmentation): Employed machine learning and customer feedback analysis, significantly enhancing business strategies and customer engagement.
 
-
 ## My Passion
 
 I am committed to using technology to address real-world challenges, with a keen interest in education, healthcare, and sustainable development. I am constantly learning, with a particular interest in AI and blockchain technologies.
 
 ## Let's Connect
 
-I'm open to collaborating on innovative projects and discussing ideas. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/saumya-phadkar/) for collaborations or a chat about the potential of technology!
+I'm open to collaborating on innovative projects and discussing ideas. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/saumya-phadkar/) or on [Email](saumya.phadkar@gmail.com) for collaborations or a chat about the potential of technology!
 
 ---
