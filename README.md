@@ -16,7 +16,7 @@ I'm a Master’s student in Computer and Information Sciences at New York Univer
 
 ## My Passion
 
-I am committed to using technology to address real-world challenges, with a keen interest in education, healthcare, and sustainable development. I am constantly learning, with a particular interest in AI and blockchain technologies.
+I am committed to using technology to address real-world challenges, with a keen interest in education, healthcare, and sustainable development. I am constantly learning, with a particular interest in Artificial Intelligence technologies.
 
 ## Let's Connect
 
